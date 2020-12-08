@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp"
+		},
+		"files.exclude": {
+			"**/.git": true,
+			"**/.vscode": true,
+			"*.{ico,rc,res, code-workspace}": true
+        }
+	}
+}
